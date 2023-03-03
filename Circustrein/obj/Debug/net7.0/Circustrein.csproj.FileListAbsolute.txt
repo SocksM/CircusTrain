@@ -1,0 +1,15 @@
+C:\Users\nieks\source\repos\Circustrein\bin\Debug\net7.0\Circustrein.exe
+C:\Users\nieks\source\repos\Circustrein\bin\Debug\net7.0\Circustrein.deps.json
+C:\Users\nieks\source\repos\Circustrein\bin\Debug\net7.0\Circustrein.runtimeconfig.json
+C:\Users\nieks\source\repos\Circustrein\bin\Debug\net7.0\Circustrein.dll
+C:\Users\nieks\source\repos\Circustrein\bin\Debug\net7.0\Circustrein.pdb
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.csproj.AssemblyReference.cache
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.AssemblyInfoInputs.cache
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.AssemblyInfo.cs
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.csproj.CoreCompileInputs.cache
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.dll
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\refint\Circustrein.dll
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.pdb
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\Circustrein.genruntimeconfig.cache
+C:\Users\nieks\source\repos\Circustrein\obj\Debug\net7.0\ref\Circustrein.dll
